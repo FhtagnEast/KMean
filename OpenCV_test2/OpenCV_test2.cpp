@@ -7,7 +7,7 @@
 #include <math.h>
 #include <iostream>
 #include <time.h>
-
+//12
 //cv::Mat kmean(int num_of_segments, cv::Mat &img);
 void kmean(int num_of_segments, cv::Mat &img);
 int find_min(std::vector<int> &v);
